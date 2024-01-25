@@ -11,6 +11,7 @@
 		2708E2B02B6311E90000E5F4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2708E2AF2B6311E90000E5F4 /* ContentView.swift */; };
 		2708E2B22B6311EB0000E5F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2708E2B12B6311EB0000E5F4 /* Assets.xcassets */; };
 		2708E2B52B6311EB0000E5F4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2708E2B42B6311EB0000E5F4 /* Preview Assets.xcassets */; };
+		2708E2BD2B631CAD0000E5F4 /* quote.png in Resources */ = {isa = PBXBuildFile; fileRef = 2708E2BC2B631CAD0000E5F4 /* quote.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		2708E2B12B6311EB0000E5F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2708E2B42B6311EB0000E5F4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2708E2B62B6311EB0000E5F4 /* demo_project.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = demo_project.entitlements; sourceTree = "<group>"; };
+		2708E2BC2B631CAD0000E5F4 /* quote.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = quote.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				2708E2AD2B6311E90000E5F4 /* demo_projectApp.swift */,
 				2708E2AF2B6311E90000E5F4 /* ContentView.swift */,
+				2708E2BC2B631CAD0000E5F4 /* quote.png */,
 				2708E2B12B6311EB0000E5F4 /* Assets.xcassets */,
 				2708E2B62B6311EB0000E5F4 /* demo_project.entitlements */,
 				2708E2B32B6311EB0000E5F4 /* Preview Content */,
@@ -129,6 +132,7 @@
 			files = (
 				2708E2B52B6311EB0000E5F4 /* Preview Assets.xcassets in Resources */,
 				2708E2B22B6311EB0000E5F4 /* Assets.xcassets in Resources */,
+				2708E2BD2B631CAD0000E5F4 /* quote.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
